@@ -39,7 +39,7 @@ def do(letter):
                     messagebox.showinfo('Defeeat', 'You was hang')
                     root.destroy()
 
-
+print('`what?`')
 #create window
 root = Tk()
 root.title('Hanging')
